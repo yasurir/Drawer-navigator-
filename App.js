@@ -148,7 +148,7 @@ const DrawerNavigatorExample = createDrawerNavigator({
    
     screen: Screen3_StackNavigator,
     navigationOptions: {
-      drawerLabel: 'Settings',
+      drawerLabel: 'Privacy Settings',
     },
   },
 
